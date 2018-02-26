@@ -1,0 +1,18 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.App-map {
+  flex-basis: 66%;
+}
+
+.App-flags {
+  flex-basis: 34%;
+}
+
+.Flag {
+  display: inline-block;
+  margin: 4px;
+}
