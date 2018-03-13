@@ -10,9 +10,16 @@
 
 .App-flags {
   flex-basis: 34%;
+  overflow-x: scroll;
 }
 
 .Flag {
   display: inline-block;
+  max-width: 72px;
   margin: 4px;
+  cursor: pointer;
+}
+
+.Flag.-selected {
+  border: 2px solid red;
 }
