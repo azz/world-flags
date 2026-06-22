@@ -2,4 +2,4 @@
 2. Click the country it belongs to
 3. Repeat
 
-https://flag.netlify.com/
+https://flag.netlify.app/
